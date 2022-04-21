@@ -1,7 +1,7 @@
 # WikiCopy
 A copy of Wikipedia for practicing front-end development.
 
-<img align="right" width="400" height="400" src="https://logos-download.com/wp-content/uploads/2016/03/Wikipedia_logo_logotype_emblem.png">
+<img align="right" width="200" height="200" src="https://logos-download.com/wp-content/uploads/2016/03/Wikipedia_logo_logotype_emblem.png">
 
 <br>
 ## Data
